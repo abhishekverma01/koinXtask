@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import logo from "../assets/logo.svg";
+import logo from "../assets/Logo.svg";
 import Hamburger from 'hamburger-react';
 
 function Navbar()  {
